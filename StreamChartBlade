@@ -1,0 +1,23 @@
+
+---
+
+### **4. 40_StreamChartBlade**  
+**Description:**  
+Visualizes live numeric data in a sharp, fast-scrolling blade-style animated chart.
+
+#### **README.md**
+```markdown
+# StreamChartBlade - Realtime Data Stream Visualizer
+
+StreamChartBlade offers a clean blade-style scrolling chart for displaying realtime metric feeds or sensor data.
+
+## Features
+- Smooth live scrolling  
+- Adjustable refresh interval  
+- Matplotlib-based  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_StreamChartBlade.git
+cd 40_StreamChartBlade
+python visualize.py
