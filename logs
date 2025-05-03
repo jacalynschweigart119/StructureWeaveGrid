@@ -1,0 +1,92 @@
+
+---
+
+### **3. 40_LogPatternTunnel**  
+**Description:**  
+Parses large-scale logs to detect tunnels of repetition patterns, burst clusters, and anomaly chains.
+
+#### **README.md**
+```markdown
+# LogPatternTunnel - Burst and Repetition Log Analyzer
+
+LogPatternTunnel maps hidden chains of repetition and detects tunnel-like anomaly structures in system or application logs.
+
+## Features
+- Timestamp clustering  
+- Burst frequency detection  
+- CLI timeline output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_LogPatternTunnel.git
+cd 40_LogPatternTunnel
+python analyze.py
+
+---
+
+### **3. 40_LogPatternTunnel**  
+**Description:**  
+Parses large-scale logs to detect tunnels of repetition patterns, burst clusters, and anomaly chains.
+
+#### **README.md**
+```markdown
+# LogPatternTunnel - Burst and Repetition Log Analyzer
+
+LogPatternTunnel maps hidden chains of repetition and detects tunnel-like anomaly structures in system or application logs.
+
+## Features
+- Timestamp clustering  
+- Burst frequency detection  
+- CLI timeline output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_LogPatternTunnel.git
+cd 40_LogPatternTunnel
+python analyze.py
+
+---
+
+### **3. 40_LogPatternTunnel**  
+**Description:**  
+Parses large-scale logs to detect tunnels of repetition patterns, burst clusters, and anomaly chains.
+
+#### **README.md**
+```markdown
+# LogPatternTunnel - Burst and Repetition Log Analyzer
+
+LogPatternTunnel maps hidden chains of repetition and detects tunnel-like anomaly structures in system or application logs.
+
+## Features
+- Timestamp clustering  
+- Burst frequency detection  
+- CLI timeline output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_LogPatternTunnel.git
+cd 40_LogPatternTunnel
+python analyze.py
+
+---
+
+### **3. 40_LogPatternTunnel**  
+**Description:**  
+Parses large-scale logs to detect tunnels of repetition patterns, burst clusters, and anomaly chains.
+
+#### **README.md**
+```markdown
+# LogPatternTunnel - Burst and Repetition Log Analyzer
+
+LogPatternTunnel maps hidden chains of repetition and detects tunnel-like anomaly structures in system or application logs.
+
+## Features
+- Timestamp clustering  
+- Burst frequency detection  
+- CLI timeline output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_LogPatternTunnel.git
+cd 40_LogPatternTunnel
+python analyze.py
